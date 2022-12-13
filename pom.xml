@@ -8,11 +8,10 @@
 		<version>2.3.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>InfyCouriers_ToTrainee</groupId>
-	<artifactId>InfyCouriersDataValidation</artifactId>
+	<groupId>Couriers_ToTrainee</groupId>
+	<artifactId>CouriersDataValidation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>InfyCouriers_ToTrainee</name>
-	<description>Exercise project for Spring Boot, REST</description>
 
 	<properties>
 		<java.version>11</java.version>
