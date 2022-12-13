@@ -1,10 +1,10 @@
-package com.infy;
+package com.package;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class InfyCouriersToTraineeApplicationTests {
+class CouriersToTraineeApplicationTests {
 
 	@Test
 	void contextLoads() {
